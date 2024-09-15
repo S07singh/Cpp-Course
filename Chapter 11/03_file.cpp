@@ -6,7 +6,7 @@ using namespace std;
 int main(){
  
               // connecting our file with hout stream
-               ofstream hout("sample60.txt");
+               ofstream hout("sample60.txt"); // hout is just name you can use anything
    
                // creating a name string variable and filling it with string entered by the user
               string name;
